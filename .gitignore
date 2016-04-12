@@ -6,6 +6,25 @@ bin-release/
 # Other files and folders
 .settings/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# My Ignores
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
+.idea
+.vagrant
+*.txt
+*.gz
+*.jar
+*.zip
+*.iso
+_mnt_wiremock/
+_mnt_wso2am02a/
+_mnt_wso2esb01a/
+_mnt_wso2esb02a/
+_mnt_wso2dss01a/
+_mnt_wso2greg01a/
+_mnt_wso2esb490/
