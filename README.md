@@ -1,4 +1,4 @@
-# Provisioning massively cross-compiled binaries to Raspberry Pi (armv7) using Vagrant, VirtualBox, Ansible and Python
+# Vagrant box for Raspberry Pi (arm) cross-compiling using Vagrant, VirtualBox, Ansible and Python
 
 ![Provisioning massively cross-compiled binaries to Raspberry Pi (armv7) using Vagrant, VirtualBox, Ansible and Python](https://github.com/chilcano/vagrant-rpi-build-and-boot/blob/master/blog-cross-compiling-kismet-raspberrypi-arm.png "Provisioning massively cross-compiled binaries to Raspberry Pi (armv7) using Vagrant, VirtualBox, Ansible and Python")
 
